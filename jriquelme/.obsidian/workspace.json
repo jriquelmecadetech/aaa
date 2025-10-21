@@ -11,14 +11,17 @@
             "id": "57546739a36b0376",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "jriquelme/asd",
-                "bFile": "jriquelme/asd",
-                "aRef": ""
+                "file": "asd/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "diff",
-              "title": "Diff: asd"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -182,6 +185,7 @@
   },
   "active": "57546739a36b0376",
   "lastOpenFiles": [
+    "asd/Untitled.canvas",
     "asd/22222.md",
     "asd/dsadassad.md",
     "asd/jriquelme/aasadasdasd.md",
