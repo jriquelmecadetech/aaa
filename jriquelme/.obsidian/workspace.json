@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asd/jriquelme/asfdsfd/efafeafae.md",
+                "file": "bbbbbb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "efafeafae"
+              "title": "bbbbbb"
             }
           }
         ]
@@ -180,17 +180,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57546739a36b0376",
+  "active": "731e09703fb7e9f7",
   "lastOpenFiles": [
+    "asd/Untitled.base",
+    "bbbbbb.md",
+    "asd/dsadassad.md",
+    "asd/22222.md",
+    "Untitled.base",
+    "asd/jriquelme/asfdsfd/efafeafae.md",
+    "b",
     "asd/jriquelme/gdsgdgdsgsd",
     "asd/gdsgdgdsgd",
     "asd/jriquelme/sadasdasfdasfasfasf.md",
-    "asd/jriquelme/asfdsfd/efafeafae.md",
     "asd/jriquelme/asfdsfd",
-    "asd/Untitled.base",
     "asd/Untitled.canvas",
-    "asd/22222.md",
-    "asd/dsadassad.md",
     "asd/jriquelme/aasadasdasd.md",
     "asd/jriquelme/Welcome.md",
     "asd/jriquelme/Untitled.base",
@@ -200,8 +203,6 @@
     "a",
     "Welcome.md",
     "Untitled 2",
-    "Untitled 1",
-    "asd",
     "create a link.md"
   ]
 }
